@@ -1,4 +1,4 @@
-# Notion JS Playground
+# CSV to Notion Database
 
 ## Running the program
 
