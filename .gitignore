@@ -34,3 +34,9 @@ jspm_packages/
 .env.development
 .env.test
 .env.production
+
+# misc
+.DS_Store
+*.pem
+*.log*
+settings.json
